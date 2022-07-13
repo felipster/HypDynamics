@@ -1,3 +1,5 @@
+% Work done by Felipe Hanuch!
+
 clear 
 close all
 clc
