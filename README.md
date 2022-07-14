@@ -1,5 +1,4 @@
 # HypDynamics
-# this thing is sick
 # This is a script that finds and simulates the dynamics of the Cornell Hyperloop drive system suspension. Developed in the MAE 4730: intermediate dynamcis course in Fall 2021, and in summer of 2022. The dynamics of this suspension is in 2D, in the frame of reference of the chassis, and gives useful engineering information for tuning the suspension to meet the track profile requirements.
 # To run "main" execute FinalProjectv34730 with Matlab_r2020b or newer. This will start with a schematic of system, and export a gif file showing the time response. 
 # The suspension consists of 3 rigid linkages that directly correlate to the linkages on the drive system CAD. Link1 and Link2 were modelled as rigid rods, whereas Link3 was modelled as an isoceles triangle. Each Linkage has a circular dot that represents the center of mass.
